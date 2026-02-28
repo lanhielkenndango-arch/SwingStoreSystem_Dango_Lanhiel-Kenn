@@ -30,3 +30,5 @@ A read-only screen that acts as a receipt history or ledger.
 <img width="501" height="495" alt="image" src="https://github.com/user-attachments/assets/4c405d0d-0733-4c46-a53a-986f15ed988c" />
 
 <img width="375" height="284" alt="image" src="https://github.com/user-attachments/assets/ba5f4889-01dd-4324-afea-96822fdb9449" />
+
+https://drive.google.com/file/d/148121P_egKx_MRcnNrTql7lk4iCFegWe/view?usp=drive_link
