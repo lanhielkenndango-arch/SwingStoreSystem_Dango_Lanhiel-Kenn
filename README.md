@@ -24,3 +24,9 @@ A read-only screen that displays the current stock levels for all products.
 A read-only screen that acts as a receipt history or ledger.
 - It displays a formatted list of all successfully completed transactions, reading directly from the `logProductNames`, `logQuantities`, and `logTotals` parallel arrays.
 - Includes a "Back" button to return to the main store interface.
+
+<img width="521" height="492" alt="image" src="https://github.com/user-attachments/assets/e8588811-9f74-45cf-a3e4-3fe6999eafc7" />
+
+<img width="501" height="495" alt="image" src="https://github.com/user-attachments/assets/4c405d0d-0733-4c46-a53a-986f15ed988c" />
+
+<img width="375" height="284" alt="image" src="https://github.com/user-attachments/assets/ba5f4889-01dd-4324-afea-96822fdb9449" />
