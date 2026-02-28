@@ -24,8 +24,3 @@ A read-only screen that displays the current stock levels for all products.
 A read-only screen that acts as a receipt history or ledger.
 - It displays a formatted list of all successfully completed transactions, reading directly from the `logProductNames`, `logQuantities`, and `logTotals` parallel arrays.
 - Includes a "Back" button to return to the main store interface.
-
-Technical Details
-Language: Java
-GUI Framework: Java Swing (JFrame, JPanel, JComboBox, JOptionPane, JTextArea)
-Data Storage: Fixed-size 1D Parallel Arrays
